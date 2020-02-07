@@ -1,0 +1,355 @@
+%% \CharacterTable
+%%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%%   Dollar        \$     Percent       \%     Ampersand     \&
+%%   Acute accent  \'     Left paren    \(     Right paren   \)
+%%   Asterisk      \*     Plus          \+     Comma         \,
+%%   Minus         \-     Point         \.     Solidus       \/
+%%   Colon         \:     Semicolon     \;     Less than     \<
+%%   Equals        \=     Greater than  \>     Question mark \?
+%%   Commercial at \@     Left bracket  \[     Backslash     \\
+%%   Right bracket \]     Circumflex    \^     Underscore    \_
+%%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%%   Right brace   \}     Tilde         \~}
+%\iffalse
+%
+% (c) copyright  1999-2002 Apostolos Syropoulos
+% This program can be redistributed and/or modified under the terms
+% of the LaTeX Project Public License Distributed from CTAN
+% archives in directory macros/latex/base/lppl.txt; either
+% version 1 of the License, or any later version.
+%
+% However, the above copyright notice does not apply in the case of
+% ``Crete University Press'' as this publisher is not allowed to
+% use or alter this file in any way.
+%
+% Please report errors or suggestions for improvement to
+%    
+%    Apostolos Syropoulos
+%    366, 28th October Str.
+%    GR-671 00 Xanthi, GREECE
+%    apostolo@ocean1.ee.duth.gr or apostolo@obelix.ee.duth.gr
+%
+%\fi
+% \CheckSum{61}
+% \iffalse This is a Metacomment
+%
+%<grtimes >\ProvidesFile{grtimes.sty}
+%<LGRptm,  >\ProvidesFile{lgrcmr.fd}
+%<LGRpcr,  >\ProvidesFile{lgrpcr.fd}
+%<LGRphv,  >\ProvidesFile{lgrphv.fd}
+%
+%<grtimes, >  [1999/03/02 v1.0 Package `greek.sty']
+%<LGRptm, >  [1999/03/02 v1.0 Greek Times New Roman]
+%<LGRpcr, >  [1999/03/02 v1.0 Greek Courier]
+%<LGRphv, >  [1999/03/02 v1.0 Greek Arial]
+%
+%    \begin{macrocode}
+%<*driver>
+\documentclass{ltxdoc}
+\usepackage{mflogo}
+\GetFileInfo{grtimes.drv}
+\begin{document}
+   \DocInput{grtimes.dtx}
+\end{document}
+%</driver>
+%    \end{macrocode}
+% \fi
+%
+%\title{The `grtimes' package}
+%\author{Apostolos Syropoulos\\366, 28th October Str.\\
+%GR-671 00 Xanthi, HELLAS\\ 
+%Email:\texttt{apostolo@obelix.ee.duth.gr}\\ or \\
+%\hphantom{Email:}\texttt{apostolo@ocean1.ee.duth.gr}}
+% \date{1999/03/20}
+%\maketitle
+% 
+%\MakeShortVerb{\|}
+%\StopEventually{}
+%\section{Introduction}
+% This \LaTeX\ package is part of a complete package that makes it possible
+% to typeset Greek text using the Greek option of the \textsf{babel} and
+% the fonts that are used mostly in Greece for ordinary everyday documents,
+% i.e., Times New Roman Greek, Courier Greek and Arial Greek. Since, the
+% present package is supposed to be a companion of the package |times|,
+% it designed to work harmoniously with it. For this reason, the fond 
+% definitions, i.e., all the |.fd| files, have been defined in way that
+% matches the definition of the corresponding files of the |times| package.
+% It is important to note that the fonts have been converted to \MF\ files
+% from TrueType sources, which in turn can be downloaded from the URL:
+% \begin{center}
+% |http://www.microsoft.com/typography/fontpack/default.htm|
+% \end{center} 
+% However, redistribution of derivative fonts is not allowed and hence we 
+% don't provide the \MF\ files and the |.tfm| files. In order to create
+% the \MF\ files one can use the program |ttf2mf| by Oleg Motygin, which
+% can be downloaded from any CTAN node. The names of all necessary fonts
+% are listed in the file |font-names|, which is part of this package.
+% 
+% The complete package provides the following \LaTeX\ files:
+%\begin{center}
+% \begin{tabular}{ll}
+%   driver  & produce a documentation driver file \\
+%   grtimes & the package itself \\
+%   LGRptm  & The Greek Times New Roman font shapes\\
+%   LGRpcr  & The Greek Courier font shape\\
+%   LGRphv  & The Greek Arial font shape\\
+%   LGRligs & \MF\ ligature table for generated fonts
+% \end{tabular}
+% \end{center}
+% 
+% \section{The package `grtimes'}
+% The package `grtimes' changes the roman, san-serif and typewriter
+% families so that the new fonts can be used. Moreover, since we want
+% to be able to use this package in conjuction with the Greek option
+% of the babel package, we must redefine certain macros.
+% 
+%    \begin{macrocode}
+%<*grtimes>
+\ProvidesFile{grtimes.sty}[1999/03/02 v1.0 grtimes package]
+\renewcommand{\sfdefault}{phv}
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\ttdefault}{pcr}
+%    \end{macrocode}
+%
+% Unfortunately, the fonts we are using do not contain the necesary glyphs
+% in order to typeset Greek numerals, so we must redefine all commands
+% that either use them or produce them. First we redine the command
+% |\stigma| so that it is possible to typeset the Greek numeral for 6.
+% We simply employ the modern way of writing this numeral with the letters
+% sigma and tau. Moreover, we employ a special character that resembles 
+% somehow the |\anwtonos| charecter in order to typeset Greek numerals
+% less than 99, just because the fonts do not contain plyphs for the
+% |\qoppa|, |\sampi| and |\katwtonos| symbols. 
+%    \begin{macrocode}
+\def\stigma{st}
+\DeclareTextCommand{\anwtonos}{LGR}{\char'047\relax}
+\let\katwtonos\relax
+\let\qoppa\relax
+\let\sampi\relax
+%</grtimes>
+%    \end{macrocode}
+%
+% \section{The Roman Font}
+% You have opted not to create all possible font sizes, but rather to create
+% the basic ones, since the program |ttf2mf| produces rather large files
+% ($>100\,\mathrm{K}$). The names of the external \MF\ files have the
+% general form: |grtmX| for the normal face, |grtmoX| for the oblique face,
+% |grtmbX| for the bold face, and |grtmboX| for the oblique bold face, where 
+% |X| stands for the face size. We first define the new font family and then
+% provide the definition for the normal and the oblique (slanted) face.
+%    \begin{macrocode}
+%<*LGRptm>
+\DeclareFontFamily{LGR}{ptm}{}
+\DeclareFontShape{LGR}{ptm}{m}{n}
+    { <5> grtm5
+      <6><7> grtm8
+      <8> <9> <10> gen * grtm
+      <10.95><12><14.4> grtm10
+      <17.28><20.74><24.88> grtm17}{}
+\DeclareFontShape{LGR}{ptm}{m}{sl}
+    { <5> grtmo5
+      <6><7> grtmo8
+      <8> <9> <10> gen * grtmo
+      <10.95><12><14.4> grtmo10
+      <17.28><20.74><24.88> grtmo17}{}
+%    \end{macrocode}
+% The font does not include an italic shape as well a caps and small caps
+% shape, so we have to provide some silent substitutions.
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{ptm}{m}{it}{ <-> ssub * ptm/m/sl}{}
+\DeclareFontShape{LGR}{ptm}{m}{sc}{ <-> ssub * ptm/m/n}{}
+%    \end{macrocode}
+% Now come the definitions for the bold weight versions of the font.
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{ptm}{b}{n}
+    { <5> grtmb5
+      <6><7> grtmb8
+      <8> <9> <10> gen * grtmb
+      <10.95><12><14.4> grtmb10
+      <17.28><20.74><24.88> grtmb17}{}
+\DeclareFontShape{LGR}{ptm}{b}{sl}
+    { <5> grtmbo5
+      <6><7> grtmbo8
+      <8> <9> <10> gen * grtmbo
+      <10.95><12><14.4> grtmbo10
+      <17.28><20.74><24.88> grtmbo17}{}
+%    \end{macrocode}
+% As previously no italic and caps and small caps shapes exists and so
+% we have to provide again some silent substitutions.
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{ptm}{b}{it}{ <-> ssub * ptm/b/sl}{}
+\DeclareFontShape{LGR}{ptm}{b}{sc}{ <-> ssub * ptm/m/sc}{}
+\DeclareFontShape{LGR}{ptm}{bx}{n}{ <-> ssub * ptm/b/n}{}
+\DeclareFontShape{LGR}{ptm}{bx}{it}{ <-> ssub * ptm/b/sl}{}
+\DeclareFontShape{LGR}{ptm}{bx}{sl}{ <-> ssub * ptm/b/sl}{}
+\DeclareFontShape{LGR}{ptm}{bx}{sc}{ <-> ssub * ptm/m/sc}{}
+%</LGRptm>
+%    \end{macrocode} 
+% \section{The Typewriter font}
+% The typewriter font has excactly the same problems as the roman font.
+% The names of the external \MF\ files have the
+% general form: |grcrX| for the normal face, |grcroX| for the oblique face,
+% |grcrbX| for the bold face, and |grcrboX| for the oblique bold face, 
+% where |X| stands for the face size. We first define the normal and slanted 
+% faces.
+%    \begin{macrocode}
+%<*LGRpcr>
+\DeclareFontFamily{LGR}{pcr}{}
+\DeclareFontShape{LGR}{pcr}{m}{n}
+    { <5> grcr5
+      <6><7> grcr8
+      <8> <9> <10> gen * grcr
+      <10.95><12><14.4> grcr10
+      <17.28><20.74><24.88> grcr17}{}
+\DeclareFontShape{LGR}{pcr}{m}{sl}
+    { <5> grcro5
+      <6><7> grcro8
+      <8> <9> <10> gen * grcro
+      <10.95><12><14.4> grcro10
+      <17.28><20.74><24.88> grcro17}{}
+%    \end{macrocode}
+% Next we define some silent substitutions for the non existent italic
+% caps and small caps shapes.
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{pcr}{m}{it}{ <-> ssub * pcr/m/sl}{}
+\DeclareFontShape{LGR}{pcr}{m}{sc}{ <-> ssub * pcr/m/n}{}
+%    \end{macrocode}
+% Now, we define the normal bold and the slanted bold faces.
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{pcr}{b}{n}
+    { <5> grcrb5
+      <6><7> grcrb8
+      <8> <9> <10> gen * grcrb
+      <10.95><12><14.4> grcrb10
+      <17.28><20.74><24.88> grcrb17}{}
+\DeclareFontShape{LGR}{pcr}{b}{sl}
+    { <5> grcrbo5
+      <6><7> grcrbo8
+      <8> <9> <10> gen * grcrbo
+      <10.95><12><14.4> grcrbo10
+      <17.28><20.74><24.88> grcrbo17}{}
+%    \end{macrocode}
+% And finally we define some more silent substitutions
+%    \begin{macrocode}
+\DeclareFontShape{LGR}{pcr}{b}{it}{ <-> ssub * pcr/b/sl}{}
+\DeclareFontShape{LGR}{pcr}{b}{sc}{ <-> ssub * pcr/m/sc}{}
+\DeclareFontShape{LGR}{pcr}{bx}{n}{ <-> ssub * pcr/b/n}{}
+\DeclareFontShape{LGR}{pcr}{bx}{it}{ <-> ssub * pcr/b/sl}{}
+\DeclareFontShape{LGR}{pcr}{bx}{sl}{ <-> ssub * pcr/b/sl}{}
+\DeclareFontShape{LGR}{pcr}{bx}{sc}{ <-> ssub * pcr/m/sc}{}
+%</LGRpcr>
+%    \end{macrocode}
+% \section{The San-serif font}
+% The san-serif font has excactly the same problems as the roman and the
+% typewrite font. So, we will provide any further documentation on the
+% code. The names of the external \MF\ files have the
+% general form: |grarX| for the normal face, |graroX| for the oblique face,
+% |grarbX| for the bold face, and |grarboX| for the oblique bold face, where 
+% |X| stands for the face size.
+%    \begin{macrocode}
+%<*LGRphv>
+\DeclareFontFamily{LGR}{phv}{}
+\DeclareFontShape{LGR}{phv}{m}{n}
+    { <5> grar5
+      <6><7> grar8
+      <8> <9> <10> gen * grar
+      <10.95><12><14.4> grar10
+      <17.28><20.74><24.88> grar17}{}
+\DeclareFontShape{LGR}{phv}{m}{sl}
+    { <5> graro5
+      <6><7> graro8
+      <8> <9> <10> gen * graro
+      <10.95><12><14.4> graro10
+      <17.28><20.74><24.88> graro17}{}
+\DeclareFontShape{LGR}{phv}{m}{it}{ <-> ssub * phv/m/sl}{}
+\DeclareFontShape{LGR}{phv}{m}{sc}{ <-> ssub * phv/m/n}{}
+\DeclareFontShape{LGR}{phv}{b}{n}
+    { <5> grarb5
+      <6><7> grarb8
+      <8> <9> <10> gen * grarb
+      <10.95><12><14.4> grarb10
+      <17.28><20.74><24.88> grarb17}{}
+\DeclareFontShape{LGR}{phv}{b}{sl}
+    { <5> grarbo5
+      <6><7> grarbo8
+      <8> <9> <10> gen * grarbo
+      <10.95><12><14.4> grarbo10
+      <17.28><20.74><24.88> grarbo17}{}
+\DeclareFontShape{LGR}{phv}{b}{it}{ <-> ssub * phv/b/sl}{}
+\DeclareFontShape{LGR}{phv}{b}{sc}{ <-> ssub * phv/m/sc}{}
+\DeclareFontShape{LGR}{phv}{bx}{n}{ <-> ssub * phv/b/n}{}
+\DeclareFontShape{LGR}{phv}{bx}{it}{ <-> ssub * phv/b/sl}{}
+\DeclareFontShape{LGR}{phv}{bx}{sl}{ <-> ssub * phv/b/sl}{}
+\DeclareFontShape{LGR}{phv}{bx}{sc}{ <-> ssub * phv/m/sc}{}
+%</LGRphv>
+%    \end{macrocode}
+% \section{\MF\ Ligature Table}
+%
+% The ligature table is essential in order to emulate the behavior
+% of the LGR encoding. We start by defining that the space character
+% is actually a boundary character. This is necessary for the sigma
+% logarures.
+%    \begin{macrocode}
+%<*LGRligs>
+boundarychar:=oct"040";
+%    \end{macrocode}
+% Now we define a few simple ligatures
+% like the en-dash, the em-dash, open Greek quotes and close Greek quotes.
+%    \begin{macrocode}
+diaer=oct"042";                
+ligtable "-": "-" =: oct"000";       % en-dash
+ligtable oct"000": "-" =: oct"177";  % em-dash
+ligtable "(":  "(" =: oct"173";      % open quotes
+ligtable ")":  ")" =: oct"175";      % close quotes
+%    \end{macrocode}
+% In (monotonic) Greek either the letter upsilon or the letter iota
+% can take a diaeresis and possible an acute. If we prepend to either
+% letter the symbol |"| (double quote), it considered to be a diaeresis; 
+% moreover if it is followed by the symbol |'| (single quote), then we
+% have both a diaeresis and an acute. 
+%    \begin{macrocode}
+ligtable diaer:                       % diaeresis
+        "'" =: oct"043", 
+        "i" =: oct"360", "u" =: oct"364",
+        "I" =: oct"333", "U" =: oct"337";
+
+ligtable oct"043":                      % diaeresis and acute
+        "i" =: oct"362", "u" =: oct"366";
+%    \end{macrocode}
+% Next, we define all the possible ligatures that produce an accented
+% vowel, i.e, acute plus vowel. However, we generate the \MF\ file from the 
+% TrueType sources we employ an encoding which maps the Greek letters to the
+% possitions assumed by the LGR encoding. But, since all characters
+% are accented, while the LGR encoding assumes that capital letters get
+% their accents and breatings with ligatures, we had to put the capital
+% accented letters in free slots. Since the fonts are monotonic, we opted
+% to put each capital letter in the slot occupied by the lowercase letter
+% accented with greve.
+%    \begin{macrocode}
+ligtable "'":                           % acute
+        diaer =: oct"043", "'" =: oct"035", 
+        "a" =: oct"210", "h" =: oct"240", "w" =: oct"270",
+        "e" =: oct"350", "o" =: oct"354", "i" =: oct"320", 
+        "u" =: oct"324",
+        "A" =: oct"200", "H" =: oct"230", "W" =: oct"260", 
+        "I" =: oct"310",  "E" =: oct"340", "U" =: oct"314", 
+        "O" =: oct"344";
+%    \end{macrocode}
+% Finally, we must treat the proper way the final sigma, i.e., left sigma is 
+% replaced with final sigma, while right character is preserved. The code
+% is copied essentialy verbatim from the |cbligs.mf| by Claudio Beccari.
+%    \begin{macrocode}
+ligtable "s":"." =:| "c", "," =:| "c", ";" =:| "c",
+             ":" =:| "c", "?" =:| "c", "!" =:| "c", 
+             ")" =:| "c", "/" =:| "c", "]" =:| "c", 
+	   oct"052" =:| "c", oct"035" =:| "c", oct"040" =:| "c";
+endinput;
+%</LGRligs>
+%    \end{macrocode} 
+% \section*{Acknowledgement}
+% I must thank Antonis Tsolomitis for his help during the preparation of
+% this package.
+% \Finale

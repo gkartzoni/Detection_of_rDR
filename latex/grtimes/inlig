@@ -1,0 +1,27 @@
+#!/usr/bin/perl
+#############################################################################
+#Program      : inligs
+#Author       : Apostolos Syropoulos
+#E-mail       : apostolo@obelix.ee.duth.gr or apostolo@ocean1.ee.duth.gr
+#Functionality: Includes the cbligs.mf file in METAFONT files generated with
+#               ttf2mf and the cb-tex.enc encoding.
+############################################################################
+die "Usage: inlig <METAFONT file>\n" if !(@ARGV);
+$file=$ARGV[0];
+$tmpf="temp.tmp";
+open(TEMP,">$tmpf")||die "Can't create temporal file!\n";
+open(MF,"$file")||die "can't open file $file!\n";
+while(<MF>)
+{
+    if (/^end\.$/)
+    {
+	print TEMP "input cbligs.mf\nend.";
+    }
+    else
+    {
+	print TEMP;
+    }
+}
+close;
+rename $tmpf, $file;
+__END__

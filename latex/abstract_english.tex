@@ -1,0 +1,13 @@
+\pagestyle{plain}
+\chapter*{Abstract}
+%\rule{\textwidth}{2pt}\\
+
+In this diploma thesis, Deep Convolutional Networks are used to detect referable diabetic retinopathy. The CNN selected is Inception V3. While training the network, the data are augmented by changing the position of the pixels and their value. This is achieved by rotating the images and adjusting the contrast, intensity, saturation and hue of the pixels. Also, 9 models are trained and Majority Voting Ensemble  and Averaging Ensemble are performed.
+
+
+Additionally, the Support Vector Machine (SVM) classifier with linear and Radial basis kernel function is used. To classify images into classes, the SVM classifier accepts as input, the output of the last fully connected layer of the trained CNN. Finally, the areas where the disease  appeared, according to CNN, are visualized.
+
+
+The best results were given by the Averaging Ensemble method with 9 models, however, all other experiments gave similar results. This method achieves 0.91 AUC in the Kaggle dataset and 0.94 AUC in the Messidor 2 dataset. For the High Sensitivity point, the Sensitivity and Specificity metrics are 0.9 and 0.69 for the Kaggle dataset and 0.9 and 0.79 for the Messidor 2, respectively. For the High Specificity Point the metric Sensitivity and Specificity are 0.76 and 0.92 for Kaggle and 0.8 and 95 respectively for Messidor 2.
+
+

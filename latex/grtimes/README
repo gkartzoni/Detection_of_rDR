@@ -1,0 +1,62 @@
+GREEK
+
+    Το πακέτο αυτό κάνει δυνατό την χρησιμοποίηση των γνωστών γραμματοσειρών
+Times New Roman Greek, Courier Greek και Arial Greek με την ελληνική
+επιλογή του πακέτου babel του LaTeX. Οι γραμματοσειρές αυτές είναι 
+αναπόσπαστο κομμάτι κάθε υπολογιστή στον οποίο είναι εγκατεστημένο κάποιο 
+από τα πρόσφατα λειτουργικά συστήματα της εταιρείας MicroSoft, π.χ.
+Windows95 ή WindowsNT. Οι γραμματοσειρές δεν συμπεριλαμβάνονται στο πακέτο
+καθώς η εταιρεία Monotype δεν επιτρέπει να διαθέτει κανείς παραγώμενες
+γραμματοσειρές. Η τεκμηρίωση του κώδικα του πακέτου, περιέχει περισσότερες
+πληροφορίες.
+
+    Για να δημιουργήσετε τις γραμματοσειρές που απαιτεί το πακέτο πρέπει
+να χρησιμοποιήσετε το πρόγραμμα ttf2mf του Oleg Motygin, που μετατρέπει
+γραμματοσειρές τύπου TrueType σε γραμματοσειρές τύπου METAFONT. Επιπλέον,
+θα πρέπει να έχετε διαλέξει την αντιστοιχία μετάφρασης (encoding)
+lgr-tex.enc η οποία συνοδεύει το πακέτο. Σε κάθε νέα γραμματοσειρά
+θα πρέπει ακριβώς πριν από την τελευταία εντολή να προσθέτετε την εντολή
+
+ input lgrligs.mf
+
+Προς διευκόλυνσή σας το πακέτο συνοδεύεται από το πρόγραμμα inlig το
+οποίο προσθέτει αυτόματα την γραμμήμη σε κάθε αρχείο. Το πρόγραμμα
+είναι γραμμένο σε Perl. Επιπλέον τυα ονόματα των απαραίτητων γραμματοσειρών
+βρίσκονται στο αρχείο font-names.
+
+Για περισσότερες πληροφορίες μπορείτε να μας γράψετε στις ηλεκτρονικές
+μας διευθύνσεις.
+
+_____________________________________________________
+||Απόστολος Συρόπουλος|| apostolo@obelix.ee.duth.gr|| 
+||Αντώνης Τσολομύτης  || atsol@iris.math.aegean.gr ||
+-----------------------------------------------------
+ENGLISH
+
+  The package grtimes is an attempt to provide an alternative font
+for typeseting monotonic Greek text with the Greek option of the
+babel package. Consequently, the package might interest LaTeX users
+whose mother tongue is Greek. The package does not contain either
+the METAFONT files or the TFM files, as Monotype does not allow the
+redistribution of derived fonts. 
+
+  The METAFONT files can be created with the ttf2mf utility by Oleg Motygin
+which transforms TrueType fonts into METAFONT sources. In order to
+make a correct translation one should use the lgr-tex.enc encoding file
+which is part of the package. In order to learn more about which fonts
+you should create, please consult the documentation of the package.
+Moreover, just before the last line of
+produced METAFONT file one must include the line
+
+input lgrligs.mf
+
+Since this is quite a time consuming operation, we provide the Perl
+script inlig. Moreover, the various font names can be found in
+file ``font-names''.
+
+For more information and/or to report a bug please send email to either
+_____________________________________________________
+||Apostolos Syropoulos ||apostolo@obelix.ee.duth.gr|| 
+||Antonis Tsolomytis   ||atsol@iris.math.aegean.gr ||
+-----------------------------------------------------
+

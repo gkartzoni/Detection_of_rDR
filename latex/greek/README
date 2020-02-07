@@ -1,0 +1,14 @@
+Greek hyphenation patterns for use with xetex.
+----------------------------------------------
+
+The files included in the archive are:
+ - xgrmhyph.tex (for modern polutonic and monotonic Greek),
+ - xgrahyph.tex (for ancient Greek),
+ - xgrcodes.tex (category, upper/locwecase codes for all Greek letters).
+
+The hyphenation patterns are just the standard hyphenation patterns
+by D. Philippou adapted for use with xetex (only the catcodes, etc.,
+files are my completely original contribution).
+
+License is LPPL.
+

@@ -1,0 +1,2550 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.16)  12 MAR 2017 03:00
+entering extended mode
+**./build-fouriernc.tex
+(build-fouriernc.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+
+(C:\Users\sevasmiotatos\AppData\Roaming\MiKTeX\2.9\\tex\fontinst\base\fontinst.
+sty
+
+LaTeX Warning: You have requested package `',
+               but the package provides `fontinst'.
+
+Package: fontinst 2007/01/23 v1.933 fontinst installation package
+\a_count=\count79
+\b_count=\count80
+\c_count=\count81
+\d_count=\count82
+\e_count=\count83
+\f_count=\count84
+\g_count=\count85
+\a_dimen=\dimen102
+\b_dimen=\dimen103
+\c_dimen=\dimen104
+\d_dimen=\dimen105
+\a_toks=\toks14
+\b_toks=\toks15
+\c_toks=\toks16
+\out_file=\write3
+\half_point=\dimen106
+\result=\count86
+\slot_number=\count87
+\glyph_width=\count88
+\glyph_height=\count89
+\glyph_depth=\count90
+\glyph_italic=\count91
+\glyph_map_commands=\toks17
+\glyph_map_fonts=\toks18
+\glyph_voffset=\count92
+\glyph_maxhpos=\count93
+\mapfont_scaling=\dimen107
+\rawfont_scaling=\dimen108
+\side_bearings=\dimen109
+\curr_bearings=\dimen110
+\font_count=\count94
+\next_mapfont=\count95
+\prev_mapfont=\count96
+\family_toks=\toks19
+\minimum_kern=\count97
+\afm_unit_dimen=\dimen111
+\char_slot=\count98
+\char_x_width=\count99
+\x_width=\count100
+\bbox_llx=\count101
+\bbox_lly=\count102
+\bbox_urx=\count103
+\bbox_ury=\count104
+\command_survivance=\count105
+No file fontinst.rc.
+)
+
+! Transformfont error:
+        Failed to make transformed font pncr8r;
+        source font metrics file not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\transformfont ...cs file not found}\error_help_a 
+                                                  \fi }
+l.6 ...ncr8r}{\reencodefont{8r}{\fromafm{pncr8a}}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Transformfont error:
+        Failed to make transformed font pncri8r;
+        source font metrics file not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\transformfont ...cs file not found}\error_help_a 
+                                                  \fi }
+l.7 ...ri8r}{\reencodefont{8r}{\fromafm{pncri8a}}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Transformfont error:
+        Failed to make transformed font pncb8r;
+        source font metrics file not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\transformfont ...cs file not found}\error_help_a 
+                                                  \fi }
+l.8 ...ncb8r}{\reencodefont{8r}{\fromafm{pncb8a}}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Transformfont error:
+        Failed to make transformed font pncbi8r;
+        source font metrics file not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\transformfont ...cs file not found}\error_help_a 
+                                                  \fi }
+l.9 ...bi8r}{\reencodefont{8r}{\fromafm{pncbi8a}}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(setxheight.mtx)
+
+! \install... error:
+        Font/MTX file pncri8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncri8r scaled 930}
+                                               \process_csep_list {\input_mt...
+
+\identity_one #1->#1
+                    
+\curr_file_list ->setxheight,pncri8r scaled 930,
+                                                unset0A,zrmhax,pncr8r scaled...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.20 {OMLGUTOP}{FML}{fncm}{m}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unset0A.mtx) (zrmhax.mtx)
+
+! \install... error:
+        Font/MTX file pncr8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncr8r scaled 930}
+                                              \process_csep_list {\input_mtx...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...set0A,zrmhax,pncr8r scaled 930,
+                                                  unsetmu,fourier-ml scaled ...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.20 {OMLGUTOP}{FML}{fncm}{m}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetmu.mtx)
+
+! \install... error:
+        Font/MTX file fourier-ml not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {fourier-ml scaled 900}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...,unsetmu,fourier-ml scaled 900,
+                                                  unsetUCgreek,fourier-ml sc...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.20 {OMLGUTOP}{FML}{fncm}{m}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetUCgreek.mtx)
+
+! \install... error:
+        Font/MTX file fourier-ml not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {fourier-ml scaled 950}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...tUCgreek,fourier-ml scaled 950,
+                                                  mathit,specialkernings,
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.20 {OMLGUTOP}{FML}{fncm}{m}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(mathit.mtx
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.281    \moveup{\int{xheight}}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\neg #1->#1
+           \global \result =-\result 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.283    \moveup{\neg{\int{xheight}}}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+) (specialkernings.mtx) (omlgutop.etx)
+\openout3 = `fncmi.vpl'.
+
+ (omlgutop.etx) (omlgutop.etx)
+(omlgutop.etx
+Warning: missing glyph `Gamma'.
+Warning: missing glyph `Delta'.
+Warning: missing glyph `Theta'.
+Warning: missing glyph `Lambda'.
+Warning: missing glyph `Xi'.
+Warning: missing glyph `Pi'.
+Warning: missing glyph `Sigma'.
+Warning: missing glyph `Upsilon'.
+Warning: missing glyph `Phi'.
+Warning: missing glyph `Psi'.
+Warning: missing glyph `Omega'.
+Warning: missing glyph `alpha'.
+Warning: missing glyph `beta'.
+Warning: missing glyph `gamma'.
+Warning: missing glyph `delta'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `zeta'.
+Warning: missing glyph `eta'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `iota'.
+Warning: missing glyph `kappa'.
+Warning: missing glyph `lambda'.
+Warning: missing glyph `mu'.
+Warning: missing glyph `nu'.
+Warning: missing glyph `xi'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `tau'.
+Warning: missing glyph `upsilon'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `chi'.
+Warning: missing glyph `psi'.
+Warning: missing glyph `omega'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `harpoonleftup'.
+Warning: missing glyph `harpoonleftdown'.
+Warning: missing glyph `harpoonrightup'.
+Warning: missing glyph `harpoonrightdown'.
+Warning: missing glyph `hookrightchar'.
+Warning: missing glyph `hookleftchar'.
+Warning: missing glyph `triangleright'.
+Warning: missing glyph `triangleleft'.
+Warning: missing glyph `zero'.
+Warning: missing glyph `one'.
+Warning: missing glyph `two'.
+Warning: missing glyph `three'.
+Warning: missing glyph `four'.
+Warning: missing glyph `five'.
+Warning: missing glyph `six'.
+Warning: missing glyph `seven'.
+Warning: missing glyph `eight'.
+Warning: missing glyph `nine'.
+Warning: missing glyph `period'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `less'.
+Warning: missing glyph `slash'.
+Warning: missing glyph `greater'.
+Warning: missing glyph `star'.
+Warning: missing glyph `partialdiff'.
+Warning: missing glyph `A'.
+Warning: missing glyph `B'.
+Warning: missing glyph `C'.
+Warning: missing glyph `D'.
+Warning: missing glyph `E'.
+Warning: missing glyph `F'.
+Warning: missing glyph `G'.
+Warning: missing glyph `H'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `K'.
+Warning: missing glyph `L'.
+Warning: missing glyph `M'.
+Warning: missing glyph `N'.
+Warning: missing glyph `O'.
+Warning: missing glyph `P'.
+Warning: missing glyph `Q'.
+Warning: missing glyph `R'.
+Warning: missing glyph `S'.
+Warning: missing glyph `T'.
+Warning: missing glyph `U'.
+Warning: missing glyph `V'.
+Warning: missing glyph `W'.
+Warning: missing glyph `X'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `flat'.
+Warning: missing glyph `natural'.
+Warning: missing glyph `sharp'.
+Warning: missing glyph `slurbelow'.
+Warning: missing glyph `slurabove'.
+Warning: missing glyph `lscript'.
+Warning: missing glyph `a'.
+Warning: missing glyph `b'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `e'.
+Warning: missing glyph `f'.
+Warning: missing glyph `g'.
+Warning: missing glyph `h'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `k'.
+Warning: missing glyph `l'.
+Warning: missing glyph `m'.
+Warning: missing glyph `n'.
+Warning: missing glyph `o'.
+Warning: missing glyph `p'.
+Warning: missing glyph `q'.
+Warning: missing glyph `r'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `u'.
+Warning: missing glyph `v'.
+Warning: missing glyph `w'.
+Warning: missing glyph `x'.
+Warning: missing glyph `y'.
+Warning: missing glyph `z'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `dotlessj'.
+Warning: missing glyph `weierstrass'.
+Warning: missing glyph `arrowright'.
+Warning: missing glyph `tie'.
+)
+Virtual font written on fncmi.vpl.
+(setxheight.mtx)
+
+! \install... error:
+        Font/MTX file pncbi8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncbi8r scaled 930}
+                                               \process_csep_list {\input_mt...
+
+\identity_one #1->#1
+                    
+\curr_file_list ->setxheight,pncbi8r scaled 930,
+                                                unset0A,zrmhax,pncb8r scaled...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.23 {OMLGUTOP}{FML}{fncm}{b}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unset0A.mtx) (zrmhax.mtx)
+
+! \install... error:
+        Font/MTX file pncb8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncb8r scaled 930}
+                                              \process_csep_list {\input_mtx...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...set0A,zrmhax,pncb8r scaled 930,
+                                                  unsetmu,fourier-mlb scaled...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.23 {OMLGUTOP}{FML}{fncm}{b}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetmu.mtx)
+
+! \install... error:
+        Font/MTX file fourier-mlb not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ...ut_mtx_file {fourier-mlb scaled 900}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...unsetmu,fourier-mlb scaled 900,
+                                                  unsetUCgreek,fourier-mlb s...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.23 {OMLGUTOP}{FML}{fncm}{b}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetUCgreek.mtx)
+
+! \install... error:
+        Font/MTX file fourier-mlb not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ...ut_mtx_file {fourier-mlb scaled 950}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...UCgreek,fourier-mlb scaled 950,
+                                                  mathit,specialkernings,
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.23 {OMLGUTOP}{FML}{fncm}{b}{it}{}
+                                   
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(mathit.mtx
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.281    \moveup{\int{xheight}}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\neg #1->#1
+           \global \result =-\result 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.283    \moveup{\neg{\int{xheight}}}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+) (specialkernings.mtx) (omlgutop.etx)
+\openout3 = `fncmib.vpl'.
+
+ (omlgutop.etx) (omlgutop.etx)
+(omlgutop.etx
+Warning: missing glyph `Gamma'.
+Warning: missing glyph `Delta'.
+Warning: missing glyph `Theta'.
+Warning: missing glyph `Lambda'.
+Warning: missing glyph `Xi'.
+Warning: missing glyph `Pi'.
+Warning: missing glyph `Sigma'.
+Warning: missing glyph `Upsilon'.
+Warning: missing glyph `Phi'.
+Warning: missing glyph `Psi'.
+Warning: missing glyph `Omega'.
+Warning: missing glyph `alpha'.
+Warning: missing glyph `beta'.
+Warning: missing glyph `gamma'.
+Warning: missing glyph `delta'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `zeta'.
+Warning: missing glyph `eta'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `iota'.
+Warning: missing glyph `kappa'.
+Warning: missing glyph `lambda'.
+Warning: missing glyph `mu'.
+Warning: missing glyph `nu'.
+Warning: missing glyph `xi'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `tau'.
+Warning: missing glyph `upsilon'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `chi'.
+Warning: missing glyph `psi'.
+Warning: missing glyph `omega'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `harpoonleftup'.
+Warning: missing glyph `harpoonleftdown'.
+Warning: missing glyph `harpoonrightup'.
+Warning: missing glyph `harpoonrightdown'.
+Warning: missing glyph `hookrightchar'.
+Warning: missing glyph `hookleftchar'.
+Warning: missing glyph `triangleright'.
+Warning: missing glyph `triangleleft'.
+Warning: missing glyph `zero'.
+Warning: missing glyph `one'.
+Warning: missing glyph `two'.
+Warning: missing glyph `three'.
+Warning: missing glyph `four'.
+Warning: missing glyph `five'.
+Warning: missing glyph `six'.
+Warning: missing glyph `seven'.
+Warning: missing glyph `eight'.
+Warning: missing glyph `nine'.
+Warning: missing glyph `period'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `less'.
+Warning: missing glyph `slash'.
+Warning: missing glyph `greater'.
+Warning: missing glyph `star'.
+Warning: missing glyph `partialdiff'.
+Warning: missing glyph `A'.
+Warning: missing glyph `B'.
+Warning: missing glyph `C'.
+Warning: missing glyph `D'.
+Warning: missing glyph `E'.
+Warning: missing glyph `F'.
+Warning: missing glyph `G'.
+Warning: missing glyph `H'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `K'.
+Warning: missing glyph `L'.
+Warning: missing glyph `M'.
+Warning: missing glyph `N'.
+Warning: missing glyph `O'.
+Warning: missing glyph `P'.
+Warning: missing glyph `Q'.
+Warning: missing glyph `R'.
+Warning: missing glyph `S'.
+Warning: missing glyph `T'.
+Warning: missing glyph `U'.
+Warning: missing glyph `V'.
+Warning: missing glyph `W'.
+Warning: missing glyph `X'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `flat'.
+Warning: missing glyph `natural'.
+Warning: missing glyph `sharp'.
+Warning: missing glyph `slurbelow'.
+Warning: missing glyph `slurabove'.
+Warning: missing glyph `lscript'.
+Warning: missing glyph `a'.
+Warning: missing glyph `b'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `e'.
+Warning: missing glyph `f'.
+Warning: missing glyph `g'.
+Warning: missing glyph `h'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `k'.
+Warning: missing glyph `l'.
+Warning: missing glyph `m'.
+Warning: missing glyph `n'.
+Warning: missing glyph `o'.
+Warning: missing glyph `p'.
+Warning: missing glyph `q'.
+Warning: missing glyph `r'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `u'.
+Warning: missing glyph `v'.
+Warning: missing glyph `w'.
+Warning: missing glyph `x'.
+Warning: missing glyph `y'.
+Warning: missing glyph `z'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `dotlessj'.
+Warning: missing glyph `weierstrass'.
+Warning: missing glyph `arrowright'.
+Warning: missing glyph `tie'.
+)
+Virtual font written on fncmib.vpl.
+(setxheight.mtx)
+
+! \install... error:
+        Font/MTX file pncri8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncri8r scaled 930}
+                                               \process_csep_list {\input_mt...
+
+\identity_one #1->#1
+                    
+\curr_file_list ->setxheight,pncri8r scaled 930,
+                                                unset0,zrmhax,pncr8r scaled ...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.28 {OMLGUTOP}{FML}{fncmi}{m}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unset0.mtx) (zrmhax.mtx)
+
+! \install... error:
+        Font/MTX file pncr8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncr8r scaled 930}
+                                              \process_csep_list {\input_mtx...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...nset0,zrmhax,pncr8r scaled 930,
+                                                  unsetmu,fourier-mlit scale...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.28 {OMLGUTOP}{FML}{fncmi}{m}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetmu.mtx)
+
+! \install... error:
+        Font/MTX file fourier-mlit not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ...t_mtx_file {fourier-mlit scaled 900}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...nsetmu,fourier-mlit scaled 900,
+                                                  fourier-ml scaled 950,math...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.28 {OMLGUTOP}{FML}{fncmi}{m}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+
+! \install... error:
+        Font/MTX file fourier-ml not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {fourier-ml scaled 950}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...aled 900,fourier-ml scaled 950,
+                                                  mathit,specialkerningsital,
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.28 {OMLGUTOP}{FML}{fncmi}{m}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(mathit.mtx
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.281    \moveup{\int{xheight}}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\neg #1->#1
+           \global \result =-\result 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.283    \moveup{\neg{\int{xheight}}}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+) (specialkerningsital.mtx) (omlgutop.etx)
+\openout3 = `fncmii.vpl'.
+
+ (omlgutop.etx) (omlgutop.etx)
+(omlgutop.etx
+Warning: missing glyph `Gamma'.
+Warning: missing glyph `Delta'.
+Warning: missing glyph `Theta'.
+Warning: missing glyph `Lambda'.
+Warning: missing glyph `Xi'.
+Warning: missing glyph `Pi'.
+Warning: missing glyph `Sigma'.
+Warning: missing glyph `Upsilon'.
+Warning: missing glyph `Phi'.
+Warning: missing glyph `Psi'.
+Warning: missing glyph `Omega'.
+Warning: missing glyph `alpha'.
+Warning: missing glyph `beta'.
+Warning: missing glyph `gamma'.
+Warning: missing glyph `delta'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `zeta'.
+Warning: missing glyph `eta'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `iota'.
+Warning: missing glyph `kappa'.
+Warning: missing glyph `lambda'.
+Warning: missing glyph `mu'.
+Warning: missing glyph `nu'.
+Warning: missing glyph `xi'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `tau'.
+Warning: missing glyph `upsilon'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `chi'.
+Warning: missing glyph `psi'.
+Warning: missing glyph `omega'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `harpoonleftup'.
+Warning: missing glyph `harpoonleftdown'.
+Warning: missing glyph `harpoonrightup'.
+Warning: missing glyph `harpoonrightdown'.
+Warning: missing glyph `hookrightchar'.
+Warning: missing glyph `hookleftchar'.
+Warning: missing glyph `triangleright'.
+Warning: missing glyph `triangleleft'.
+Warning: missing glyph `zero'.
+Warning: missing glyph `one'.
+Warning: missing glyph `two'.
+Warning: missing glyph `three'.
+Warning: missing glyph `four'.
+Warning: missing glyph `five'.
+Warning: missing glyph `six'.
+Warning: missing glyph `seven'.
+Warning: missing glyph `eight'.
+Warning: missing glyph `nine'.
+Warning: missing glyph `period'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `less'.
+Warning: missing glyph `slash'.
+Warning: missing glyph `greater'.
+Warning: missing glyph `star'.
+Warning: missing glyph `partialdiff'.
+Warning: missing glyph `A'.
+Warning: missing glyph `B'.
+Warning: missing glyph `C'.
+Warning: missing glyph `D'.
+Warning: missing glyph `E'.
+Warning: missing glyph `F'.
+Warning: missing glyph `G'.
+Warning: missing glyph `H'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `K'.
+Warning: missing glyph `L'.
+Warning: missing glyph `M'.
+Warning: missing glyph `N'.
+Warning: missing glyph `O'.
+Warning: missing glyph `P'.
+Warning: missing glyph `Q'.
+Warning: missing glyph `R'.
+Warning: missing glyph `S'.
+Warning: missing glyph `T'.
+Warning: missing glyph `U'.
+Warning: missing glyph `V'.
+Warning: missing glyph `W'.
+Warning: missing glyph `X'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `flat'.
+Warning: missing glyph `natural'.
+Warning: missing glyph `sharp'.
+Warning: missing glyph `slurbelow'.
+Warning: missing glyph `slurabove'.
+Warning: missing glyph `lscript'.
+Warning: missing glyph `a'.
+Warning: missing glyph `b'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `e'.
+Warning: missing glyph `f'.
+Warning: missing glyph `g'.
+Warning: missing glyph `h'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `k'.
+Warning: missing glyph `l'.
+Warning: missing glyph `m'.
+Warning: missing glyph `n'.
+Warning: missing glyph `o'.
+Warning: missing glyph `p'.
+Warning: missing glyph `q'.
+Warning: missing glyph `r'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `u'.
+Warning: missing glyph `v'.
+Warning: missing glyph `w'.
+Warning: missing glyph `x'.
+Warning: missing glyph `y'.
+Warning: missing glyph `z'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `dotlessj'.
+Warning: missing glyph `weierstrass'.
+Warning: missing glyph `arrowright'.
+Warning: missing glyph `tie'.
+)
+Virtual font written on fncmii.vpl.
+(setxheight.mtx)
+
+! \install... error:
+        Font/MTX file pncbi8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncbi8r scaled 930}
+                                               \process_csep_list {\input_mt...
+
+\identity_one #1->#1
+                    
+\curr_file_list ->setxheight,pncbi8r scaled 930,
+                                                unset0,zrmhax,pncb8r scaled ...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.31 {OMLGUTOP}{FML}{fncmi}{b}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unset0.mtx) (zrmhax.mtx)
+
+! \install... error:
+        Font/MTX file pncb8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncb8r scaled 930}
+                                              \process_csep_list {\input_mtx...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...nset0,zrmhax,pncb8r scaled 930,
+                                                  unsetmu,fourier-mlitb scal...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.31 {OMLGUTOP}{FML}{fncmi}{b}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetmu.mtx)
+
+! \install... error:
+        Font/MTX file fourier-mlitb not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ..._mtx_file {fourier-mlitb scaled 900}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...setmu,fourier-mlitb scaled 900,
+                                                  fourier-mlb scaled 950,mat...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.31 {OMLGUTOP}{FML}{fncmi}{b}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+
+! \install... error:
+        Font/MTX file fourier-mlb not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ...ut_mtx_file {fourier-mlb scaled 950}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...led 900,fourier-mlb scaled 950,
+                                                  mathit,specialkerningsital,
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.31 {OMLGUTOP}{FML}{fncmi}{b}{it}{}
+                                    
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(mathit.mtx
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.281    \moveup{\int{xheight}}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \i-xheight 
+\neg #1->#1
+           \global \result =-\result 
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\moveup #1->\eval_expr {#1}
+                           \ifnum \result =0\else \advance \glyph_voffset by...
+l.283    \moveup{\neg{\int{xheight}}}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+) (specialkerningsital.mtx) (omlgutop.etx)
+\openout3 = `fncmiib.vpl'.
+
+ (omlgutop.etx) (omlgutop.etx)
+(omlgutop.etx
+Warning: missing glyph `Gamma'.
+Warning: missing glyph `Delta'.
+Warning: missing glyph `Theta'.
+Warning: missing glyph `Lambda'.
+Warning: missing glyph `Xi'.
+Warning: missing glyph `Pi'.
+Warning: missing glyph `Sigma'.
+Warning: missing glyph `Upsilon'.
+Warning: missing glyph `Phi'.
+Warning: missing glyph `Psi'.
+Warning: missing glyph `Omega'.
+Warning: missing glyph `alpha'.
+Warning: missing glyph `beta'.
+Warning: missing glyph `gamma'.
+Warning: missing glyph `delta'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `zeta'.
+Warning: missing glyph `eta'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `iota'.
+Warning: missing glyph `kappa'.
+Warning: missing glyph `lambda'.
+Warning: missing glyph `mu'.
+Warning: missing glyph `nu'.
+Warning: missing glyph `xi'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `tau'.
+Warning: missing glyph `upsilon'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `chi'.
+Warning: missing glyph `psi'.
+Warning: missing glyph `omega'.
+Warning: missing glyph `epsilon'.
+Warning: missing glyph `theta'.
+Warning: missing glyph `pi'.
+Warning: missing glyph `rho'.
+Warning: missing glyph `sigma'.
+Warning: missing glyph `phi'.
+Warning: missing glyph `harpoonleftup'.
+Warning: missing glyph `harpoonleftdown'.
+Warning: missing glyph `harpoonrightup'.
+Warning: missing glyph `harpoonrightdown'.
+Warning: missing glyph `hookrightchar'.
+Warning: missing glyph `hookleftchar'.
+Warning: missing glyph `triangleright'.
+Warning: missing glyph `triangleleft'.
+Warning: missing glyph `zero'.
+Warning: missing glyph `one'.
+Warning: missing glyph `two'.
+Warning: missing glyph `three'.
+Warning: missing glyph `four'.
+Warning: missing glyph `five'.
+Warning: missing glyph `six'.
+Warning: missing glyph `seven'.
+Warning: missing glyph `eight'.
+Warning: missing glyph `nine'.
+Warning: missing glyph `period'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `less'.
+Warning: missing glyph `slash'.
+Warning: missing glyph `greater'.
+Warning: missing glyph `star'.
+Warning: missing glyph `partialdiff'.
+Warning: missing glyph `A'.
+Warning: missing glyph `B'.
+Warning: missing glyph `C'.
+Warning: missing glyph `D'.
+Warning: missing glyph `E'.
+Warning: missing glyph `F'.
+Warning: missing glyph `G'.
+Warning: missing glyph `H'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `K'.
+Warning: missing glyph `L'.
+Warning: missing glyph `M'.
+Warning: missing glyph `N'.
+Warning: missing glyph `O'.
+Warning: missing glyph `P'.
+Warning: missing glyph `Q'.
+Warning: missing glyph `R'.
+Warning: missing glyph `S'.
+Warning: missing glyph `T'.
+Warning: missing glyph `U'.
+Warning: missing glyph `V'.
+Warning: missing glyph `W'.
+Warning: missing glyph `X'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `flat'.
+Warning: missing glyph `natural'.
+Warning: missing glyph `sharp'.
+Warning: missing glyph `slurbelow'.
+Warning: missing glyph `slurabove'.
+Warning: missing glyph `lscript'.
+Warning: missing glyph `a'.
+Warning: missing glyph `b'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `e'.
+Warning: missing glyph `f'.
+Warning: missing glyph `g'.
+Warning: missing glyph `h'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `k'.
+Warning: missing glyph `l'.
+Warning: missing glyph `m'.
+Warning: missing glyph `n'.
+Warning: missing glyph `o'.
+Warning: missing glyph `p'.
+Warning: missing glyph `q'.
+Warning: missing glyph `r'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `u'.
+Warning: missing glyph `v'.
+Warning: missing glyph `w'.
+Warning: missing glyph `x'.
+Warning: missing glyph `y'.
+Warning: missing glyph `z'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `dotlessj'.
+Warning: missing glyph `weierstrass'.
+Warning: missing glyph `arrowright'.
+Warning: missing glyph `tie'.
+)
+Virtual font written on fncmiib.vpl.
+(setxheight.mtx)
+(C:\Users\sevasmiotatos\AppData\Roaming\MiKTeX\2.9\tex\fontinst\misc\kernoff.mt
+x)
+
+! \install... error:
+        Font/MTX file fourier-ms not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {fourier-ms scaled 920}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...,kernoff,fourier-ms scaled 920,
+                                                  unsetAlph,fourier-mcl scal...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.36       {OMSGUTOP}{FMS}{fncm}{m}{n}{}
+                                        
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetAlph.mtx)
+
+! \install... error:
+        Font/MTX file fourier-mcl not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> ...ut_mtx_file {fourier-mcl scaled 920}
+                                                  \process_csep_list {\input...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...setAlph,fourier-mcl scaled 920,
+                                                  unsetpar,kernon,unsetfontp...
+
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.36       {OMSGUTOP}{FMS}{fncm}{m}{n}{}
+                                        
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(unsetpar.mtx)
+(C:\Users\sevasmiotatos\AppData\Roaming\MiKTeX\2.9\tex\fontinst\misc\kernon.mtx
+) (unsetfontparams.mtx)
+
+! \install... error:
+        Font/MTX file pncr8r not found.
+
+Type  H <return>  for immediate help.
+\generic_error ...turn> \space for immediate help}
+                                                  \endgroup 
+\input_mtx_file ...l then be applied on that.\fi }
+                                                  \fi \fi 
+<argument> \input_mtx_file {pncr8r scaled 920}
+                                              \process_csep_list {\input_mtx...
+
+\identity_one #1->#1
+                    
+\curr_file_list ...etfontparams,pncr8r scaled 920,
+                                                  zrykernx,mathsy,
+\input_metrics ...\input_mtx_file \curr_file_list 
+                                                  \process_csep_list ,\globa...
+
+\installfont ...al =\x_relax \input_metrics {}{#2}
+                                                  \etxtovpl {#3}{#1}\install...
+l.36       {OMSGUTOP}{FMS}{fncm}{m}{n}{}
+                                        
+You can insert an \inputmtx command here
+to input some other MTX file instead.
+The requested raw scaling will then be applied on that.
+
+(zrykernx.mtx
+! Missing number, treated as zero.
+<to be read again> 
+                   \g-A 
+\glyph_metrics #1#2#3#4#5#6->\a_count =#1
+                                         \b_count =#2\c_count =#3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+\eval_expr #1->\global 
+                       \result =#1\x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+\GenericError  ...                                
+                                                  \endgroup 
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \one_thousand 
+\glyph ...ount {#2}\ifnum \e_count =\one_thousand 
+                                                  \edef \a_macro {\mapcomman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\add #1#2->#1\bgroup \a_count =\result \eval_expr 
+                                                  {#2}\global \advance \resu...
+
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra }, or forgotten $.
+\add ...\global \advance \result \a_count \egroup 
+                                                  
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.17 \shiftglyph{A}{0}{50}{0}
+                             
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \g-B 
+\glyph_metrics #1#2#3#4#5#6->\a_count =#1
+                                         \b_count =#2\c_count =#3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+\eval_expr #1->\global 
+                       \result =#1\x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \else.
+\glyph ...o }\edef \a_macro {\mapfonts {#1}}\else 
+                                                  \multiply \a_count \e_coun...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I'm ignoring this; it doesn't match any \if.
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\add #1#2->#1\bgroup \a_count =\result \eval_expr 
+                                                  {#2}\global \advance \resu...
+
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra }, or forgotten $.
+\add ...\global \advance \result \a_count \egroup 
+                                                  
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.18 \shiftglyph{B}{0}{50}{0}
+                             
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \g-C 
+\glyph_metrics #1#2#3#4#5#6->\a_count =#1
+                                         \b_count =#2\c_count =#3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+\eval_expr #1->\global 
+                       \result =#1\x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \else.
+\glyph ...o }\edef \a_macro {\mapfonts {#1}}\else 
+                                                  \multiply \a_count \e_coun...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I'm ignoring this; it doesn't match any \if.
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\add #1#2->#1\bgroup \a_count =\result \eval_expr 
+                                                  {#2}\global \advance \resu...
+
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra }, or forgotten $.
+\add ...\global \advance \result \a_count \egroup 
+                                                  
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.19 \shiftglyph{C}{0}{50}{50}
+                              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \g-D 
+\glyph_metrics #1#2#3#4#5#6->\a_count =#1
+                                         \b_count =#2\c_count =#3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+\eval_expr #1->\global 
+                       \result =#1\x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \else.
+\glyph ...o }\edef \a_macro {\mapfonts {#1}}\else 
+                                                  \multiply \a_count \e_coun...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I'm ignoring this; it doesn't match any \if.
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \fi.
+\glyph ...le {\the \e_count }{\mapfonts {#1}}}\fi 
+                                                  \advance \glyph_width \a_c...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I'm ignoring this; it doesn't match any \if.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\add #1#2->#1\bgroup \a_count =\result \eval_expr 
+                                                  {#2}\global \advance \resu...
+
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra }, or forgotten $.
+\add ...\global \advance \result \a_count \egroup 
+                                                  
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.20 \shiftglyph{D}{0}{50}{0}
+                             
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \g-E 
+\glyph_metrics #1#2#3#4#5#6->\a_count =#1
+                                         \b_count =#2\c_count =#3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+\eval_expr #1->\global 
+                       \result =#1\x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\eval_expr_to #1#2->\eval_expr {#2}
+                                   #1=\result 
+\glyph_metrics ..._count =#1\b_count =#2\c_count =
+                                                  #3\d_count =#4 
+\glyph ...al_expr_to \e_count {#2}\ifnum \e_count 
+                                                  =\one_thousand \edef \a_ma...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...usand \edef \a_macro {\mapcommands {#1}}
+                                                  \global \glyph_map_command...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...a_macro }\edef \a_macro {\mapfonts {#1}}
+                                                  \else \multiply \a_count \...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \else.
+\glyph ...o }\edef \a_macro {\mapfonts {#1}}\else 
+                                                  \multiply \a_count \e_coun...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I'm ignoring this; it doesn't match any \if.
+
+! Argument of \fifth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \fifth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...cale {\the \e_count }{\mapcommands {#1}}
+                                                  }\global \glyph_map_comman...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \sixth_of_six has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \sixth_of_six was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+\glyph ...d_scale {\the \e_count }{\mapfonts {#1}}
+                                                  }\fi \advance \glyph_width...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \fi.
+\glyph ...le {\the \e_count }{\mapfonts {#1}}}\fi 
+                                                  \advance \glyph_width \a_c...
+
+\shiftglyph ...{#1} \movert {#2} \glyph {#1}{1000}
+                                                   \movert {#4} \resetitalic...
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+I'm ignoring this; it doesn't match any \if.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+\add #1#2->#1\bgroup \a_count =\result \eval_expr 
+                                                  {#2}\global \advance \resu...
+
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra }, or forgotten $.
+\add ...\global \advance \result \a_count \egroup 
+                                                  
+\eval_expr #1->\global \result =#1
+                                  \x_relax 
+\g_eval_expr_to #1#2->\eval_expr {#2}
+                                     \global #1=\result 
+\shiftglyph ...\add {\italic {#1}}{\sub {#3}{#4}}}
+                                                   \endresetglyph 
+l.21 \shiftglyph{E}{0}{50}{50}
+                              
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 1395 strings out of 493634
+ 14833 string characters out of 3143720
+ 79386 words of memory out of 3000000
+ 4737 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 29i,3n,32p,179b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
